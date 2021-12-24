@@ -12,7 +12,7 @@ v.v …
 # Cách cài đặt
 Cài đặt các thư viện cần thiết cho Xerxes
 ```
-sudo apt-get -y install build-essential cmake libssl-dev pkgconfsudo apt-get -y install build-essential cmake libssl-dev pkgconf
+sudo apt-get -y install build-essential cmake libssl-dev pkgconf
 ```
 Tải xerxes về máy tính
 ```

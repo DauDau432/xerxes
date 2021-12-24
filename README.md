@@ -1,5 +1,5 @@
 # XERXES
-XERXES công cụ DoS mạnh mẽ nhất của zanyarjamal
+XERXES là công cụ DoS đơn giản mạnh mẽ nhất của zanyarjamal
 
 # Công cụ dos Xerxes được cải tiến với nhiều tính năng như:
 - [x] Hỗ trợ TLS
@@ -16,7 +16,7 @@ sudo apt-get -y install build-essential cmake libssl-dev pkgconfsudo apt-get -y 
 ```
 Tải xerxes về máy tính
 ```
-#Git clone https://github.com/ngrock90/xerxes.git
+git clone https://github.com/DauDau432/xerxes.git
 ```
 Sau đó di chuyển đến thư mục vừa cài đặt
 ```

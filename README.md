@@ -16,7 +16,7 @@ sudo apt-get -y install build-essential cmake libssl-dev pkgconf
 ```
 Tải xerxes về máy tính
 ```
-git clone https://github.com/DauDau432/xerxes.git
+git clone https://github.com/DauDau432/xerxes
 ```
 Sau đó di chuyển đến thư mục vừa cài đặt
 ```

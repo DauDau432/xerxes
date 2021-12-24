@@ -1,5 +1,5 @@
 # XERXES
-XERXES là công cụ DoS đơn giản mạnh mẽ nhất của zanyarjamal
+XERXES là 1 trong những công cụ Dos đơn giản mạnh mẽ nhất của zanyarjamal
 
 # Công cụ dos Xerxes được cải tiến với nhiều tính năng như:
 - [x] Hỗ trợ TLS

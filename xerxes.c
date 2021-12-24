@@ -1,4 +1,4 @@
-/ * XerXes - Công cụ dos mạnh mẽ nhất - THN (Xerxes-DDos của zanyarjamal) * /
+/* XerXes - Most powerful dos tool - THN (http://www.thehackernews.com) */
 
 #include <stdio.h>
 #include <stdlib.h>

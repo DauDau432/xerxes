@@ -1,7 +1,7 @@
 # XERXES
 XERXES là 1 trong những công cụ Dos đơn giản mạnh mẽ nhất của zanyarjamal
 
-# Công cụ dos Xerxes được cải tiến với nhiều tính năng như:
+## Công cụ dos Xerxes được cải tiến với nhiều tính năng như:
 - [x] Hỗ trợ TLS
 - [x] Tự random HTTP header
 - [x] Tự random Useragent
@@ -9,7 +9,7 @@ XERXES là 1 trong những công cụ Dos đơn giản mạnh mẽ nhất của 
 - [x] Nhiều phương thức tấn công
 v.v …
 
-# Cách cài đặt
+## Cách cài đặt
 Cài đặt các thư viện cần thiết cho Xerxes
 ```
 sudo apt-get -y install build-essential cmake libssl-dev pkgconf
@@ -26,7 +26,7 @@ Tiếp theo, bạn nên biên dịch với trình biên dịch GNU GCC
 ```
 gcc xerxes.c -o xerxes
 ```
-# Cách sử dụng
+## Cách sử dụng
 Sử dụng lệnh dưới đây để DDOS vào Website bất kỳ
 ```
 ./xerxes <IP/URL> 80
